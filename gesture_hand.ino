@@ -1,6 +1,4 @@
 
-// Arduino Sketch: gesture_hand.ino
-
 #include <Servo.h>
 
 Servo thumb, index, middle, ring, pinky;

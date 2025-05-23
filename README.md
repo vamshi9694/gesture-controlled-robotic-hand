@@ -5,7 +5,7 @@ This project demonstrates a **low-cost, 3D-printed robotic hand** that responds 
 
 ---
 
-## 📸 How It Works
+##  How It Works
 
 1. **MediaPipe** detects hand landmarks using your webcam.
 2. Gestures are converted into binary commands (e.g., `10100`).
@@ -14,7 +14,7 @@ This project demonstrates a **low-cost, 3D-printed robotic hand** that responds 
 
 ---
 
-## 🛠️ Components
+##  Components
 
 - Python 3
 - OpenCV
@@ -26,7 +26,7 @@ This project demonstrates a **low-cost, 3D-printed robotic hand** that responds 
 
 ---
 
-## 🔧 Setup
+##  Setup
 
 ### Python Side (Mac/Windows/Linux)
 
@@ -47,7 +47,7 @@ python3 gesture_control.py
 
 ---
 
-## 🧠 Gesture Mapping
+##  Gesture Mapping
 
 Each finger is represented as:
 - `1` = Finger Up
@@ -59,7 +59,7 @@ Example: `10100` → Thumb and Middle Finger up, others down.
 
 
 
-## 📂 File Structure
+##  File Structure
 
 ```
 ├── gesture_control.py     
@@ -69,7 +69,7 @@ Example: `10100` → Thumb and Middle Finger up, others down.
 
 ---
 
-## 📜 License
+##  License
 
 MIT License — feel free to use, modify, and share.
 
